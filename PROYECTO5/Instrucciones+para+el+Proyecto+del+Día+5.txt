@@ -1,0 +1,23 @@
+Instrucciones para el Proyecto del Día 5
+----------------------------------------
+
+Una vez más nos encontramos finalizando un día lleno de aprendizajes, y qué mejor momento que éste para aprovechar y practicar lo aprendido.
+
+Para el proyecto de hoy, debes suponer que has recibido un cronograma de trabajo de un establecimiento que está abierto las 24 horas los días hábiles de la semana, y las mañanas de los sábados. Una persona que no posee los conocimientos que ahora tú tienes, ha elaborado un sencillo cronograma de trabajo, pero lo ha hecho de tal manera que ahora no resulta demasiado sencillo de entender, y te ha pedido ayuda para organizarlo. Por suerte con lo que has aprendido hoy, estás más que preparado para hacerlo.
+
+Tendrás que mover filas y columnas que ya existen en la tabla para acomodarlas en un orden que tenga sentido cronológico:
+	• Las filas deben decir en este orden: Turno Mañana, Turno Tarde, y Turno Noche
+	• Las columnas deben seguir el orden: Hora de ingreso, hora de colación (o comida), y hora de salida
+	• Agrega una columna que diga “Duración de Colación” (o algo así), entre las columnas de Hora de Colación y Hora de Salida (vas a encontrar esas duraciones en el archivo)
+	• Copia la fila de Turno Mañana al final de la tabla para agregar los sábados, que tienen el mismo horario y solo cambia el encabezado.
+	• Con la función de mayúsculas, coloca un encabezado a la tabla, que tome el valor de una celda que dice “Cronograma de Trabajo”
+	• Oculta las filas que contienen las instrucciones
+	• Borra las filas que hayan quedado en blanco antes del encabezado.
+	
+Como siempre, el cuestionario que sigue a continuación de este video, será la mejor ayuda que puedes tener. Ábrelo antes de comenzar el proyecto, y ve siguiendo los pasos que te servirán de guía para recordar todos los pasos de la consigna.
+
+Estoy seguro que esta práctica te servirá para afianzar todos los conocimientos del día, y si en algún momento tienes alguna dificultad, recuerda que puedes recurrir a la lección específica para recordar algún procedimiento, e incluso ver la solución de este proyecto que te estará esperando en el siguiente video.
+
+Recuerda que esta no es otra cosa que una nueva instancia de aprendizaje, de modo que aprovéchala y no te preocupes si aparece alguna duda: es parte del proceso y estoy muy contento de que hayas llegado hasta aquí. 
+
+Y ahora, ¿estás listo para resolver el desafío? Espero que sí, y te deseo muchos éxitos para que puedas lograrlo.
