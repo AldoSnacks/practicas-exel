@@ -1,0 +1,23 @@
+Instrucciones para el Proyecto del Día 6
+----------------------------------------
+
+Bienvenido a un nuevo proyecto para poner a prueba tus conocimientos en Excel. Gracias a todo lo que has aprendido hasta el momento, ya puedes comenzar a trabajar y hacer análisis sobre bases de datos reales.
+ 
+Por eso en este proyecto voy a proporcionarte unos datos de ejemplo, muy parecidos a los que puedes obtener en cualquier lugar de trabajo. Particularmente, esta base contiene un listado de 1000 proveedores que tienen saldos pendientes con nuestra empresa.
+
+CONSIGNA GLOBAL
+---------------
+Toma esta gran tabla de datos, y muestra (mediante un gráfico en una nueva hoja) los proveedores de la región "Este" ordenados según el monto de saldos pendientes que tengan, de mayor a menor.
+
+INSTRUCCIONES
+-------------
+* Inmobiliza la fila de encabezados, para poder ver en todo momento a qué hace referencia cada columna incluso si nos desplazamos hasta los registros del final de la tabla.
+* Ordena la tabla de acuerdo con los proveedores que tienen mayores saldos pendientes, es decir, de mayor a menor según el saldo, que se encuentra en la columna F.
+* Aplica un filtro para quedarte únicamente con los proveedores que pertenezcan a la región "Este".
+* Agrega una nueva hoja, y copia allí la tabla filtrada.
+* Aplica algún formato sobre estos datos (rellenos de celda y bordes), para presentar mejor estos resultados.
+* Selecciona las columnas de nombres de los proveedores y de saldos para insertar un gráfico. Te recomiendo un gráfico de barras o columnas.
+
+Hay mucho por hacer, pero si tienes presente el objetivo y los aprendizajes del día de hoy, te darás cuenta de que tienes todas las herramientas para lograrlo. Como siempre, tendrás el cuestionario de guía paso a paso que hará que no puedas quedarte varado en el camino, y si en algún momento te trabas, te mostraré cómo lo he resuelto yo en la lección siguiente, pero lo que más me importa es que lo intentes como puedas, y sigas aprendiendo mientras lo haces. 
+
+Así que, si quieres, pon un poco de música y busca tu bebida favorita para que te acompañe en este intento. Mucha suerte.
