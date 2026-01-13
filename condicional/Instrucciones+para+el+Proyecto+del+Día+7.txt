@@ -1,0 +1,33 @@
+Instrucciones para el Proyecto del Día 7
+----------------------------------------
+
+Vamos a ponerle un broche de oro al día de hoy, con un proyecto desafiante para poner en práctica todo lo aprendido. 
+
+CONSIGNA
+--------
+Has recibido un informe relacionado con los resultados de ventas de diferentes vendedores a lo largo de tres años. Para analizar el desempeño de cada uno de ellos, vas a incorporar algunas ayudas visuales que te permitan resaltar la información importante, usando los formatos condicionales.
+
+1. Vas a notar que el archivo que recibes ya tiene algunas reglas de formato condicional aplicadas. Así que, para cumplir con las siguientes consignas, necesitarás eliminar o modificar las que no correspondan, agregar nuevas, y asegurarte de ordenarlas correctamente para cumplir con todos los puntos.
+
+2. Para las ventas del año 2020:
+	• Mostrar un ícono tipo semáforo al lado de cada valor, donde:
+		a) Rojo representa el 50% de los vendedores con los menores ventas
+		b) Verde representa el 20% de los vendedores con mayores ventas
+		c) Amarillo representa los casos intermedios
+
+		PISTA: Necesitarás utilizar percentiles para lograrlo
+	
+3. Para las ventas del año 2021:
+	• Destaca los vendedores que alcanzaron ventas superiores al promedio para ese año (relleno de celda: verde claro, color fuente: verde oscuro)
+	
+4. Y para las ventas del año 2022:
+	• Destaca a quienes no lograron alcanzar el objetivo de ventas de la celda C19 (relleno de celda: rojo, color fuente: blanco). IMPORTANTE: Si esta condición se cumple, no debe aplicarse ninguna otra regla sobre dicha celda.
+	• Destaca a quienes alcanzaron montos mayores que el año anterior (fuente: negrita,  color fuente: verde oscuro)
+	• Destaca a quienes hayan alcanzado montos mayores a $10.000 (relleno de celda: verde claro, color fuente: verde oscuro)
+	
+
+Te aseguro que es un desafío más que interesante, en el que necesitarás poner a prueba todo lo que has aprendido hasta ahora referido a formato condicional. Este desafío puede ser un poco más complejo que los anteriores, pero como siempre, quiero incentivarte a que des tu mejor esfuerzo para intentar resolverlo.
+
+
+Tienes a tu disposición las lecciones que necesites repasar, el espacio de preguntas y respuestas, el cuestionario que sigue a continuación con los pasos ordenados que te recomiendo seguir y consultar todo el tiempo, y por supuesto, mi solución publicada en la siguiente lección. Pero de todo esto lo más importante será, todo o en parte, el trabajo que logres realizar por tu cuenta.
+Ya sabes: manos a la obra, y te espero en la siguiente clase para que puedas comparar tu solución. 
