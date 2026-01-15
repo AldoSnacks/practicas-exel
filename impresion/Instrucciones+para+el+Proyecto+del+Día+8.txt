@@ -1,0 +1,13 @@
+Instrucciones para el Proyecto del Día 8
+----------------------------------------
+
+El proyecto de hoy tiene que ver con las habilidades de impresión, pero quiero hacer una aclaración: para que cuidemos juntos el medio ambiente sin desperdiciar papel de manera innecesaria, por favor realiza este desafío imprimiendo algún libro de Excel que necesites realmente imprimir para tu trabajo o tu vida.
+
+Básicamente, el proyecto consiste en que configures tu primer proyecto de impresión aplicando los conocimientos vistos en clase. Y como el objetivo es que cada impresión realmente cuente, puedes utilizar cualquier libro que quieras para realizarlo. Ten presente entonces todo lo que necesitarás:
+	* Estudia el tamaño de tus datos al desplazarte de extremo a extremo utilizando atajos de teclado
+ 	* Configura la impresión para que se extienda en la cantidad de hojas necesaria
+	* 1elimina las líneas de impresión de tu hoja
+	* Si no recuerdas alguno de los pasos puedes utilizar la ayuda incorporada en Excel
+
+En el cuestionario paso a paso que sigue, puedes ir viendo todas las cosas que puedes hacer con tu libro, para que no se te pase repasar cualquiera de las herramientas que dispones para este fin.
+Y desde luego en la próxima clase simularé un ejemplo para que puedas ver todo el proceso integrado. Tarde o temprano seguro tendrás la necesidad de hacerlo, así que te espero en el próximo video.
